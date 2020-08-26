@@ -6,7 +6,7 @@
 
 ## Installation
 
-- This project is a badic app with flutter framework
+- This project is a basic app with flutter framework
 
 ### Clone
 
